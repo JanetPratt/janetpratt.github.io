@@ -12,19 +12,46 @@ h2 {
   color: Pink;
   text-decoration: underline;
 }
+h3 {
+  text-align: left;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1em;
+  color: Pink;
+  text-decoration: underline;
+}
+h4 {
+  text-align: left;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1em;
+  color: Pink;
+  text-decoration: underline;
+}
+h5 {
+  text-align: center-left;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1em;
+  color: Pink;
+  text-decoration: underline;
+}
+h6 {
+  text-align: left;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1em;
+  color: Pink;
+  text-decoration: underline;
+}
 p1{
   text-align: left;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 1em;
   color: pink;
-  text-decoration: bold;
+ 
 }
 div{
   text-align: left;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 1em;
   color: pink;
-  text-decoration: bold;
   padding: 50px;
   width: 50%
 }
@@ -33,7 +60,6 @@ div1{
   font-family: Arial, Helvetica, sans-serif;
   font-size: 1em;
   color: pink;
-  text-decoration: bold;
   padding: 50px;
   width: 50%
 }
@@ -41,7 +67,7 @@ body{
   background-color: grey;
   font-family: Arial, Helvetica, sans-serif;
   Font-size: 2em;
-  colour: black; 
+  color: pink; 
 }
 .profile {
   display: block;
@@ -49,9 +75,18 @@ body{
   margin-right: auto;
   width: 20%;
 }
+.boys {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
 ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
- 
+}
+#pgtxt {
+  color: deeppink;
+  text-decoration: underline
 }
